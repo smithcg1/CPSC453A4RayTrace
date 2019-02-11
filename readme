@@ -1,0 +1,14 @@
+Platform: Fedora v28
+Compiler: Eclipse (Photon)
+
+
+Instructions:
+
+Change Scenes:
+Scene 1: "1"
+Scene 2: "2"
+Scene 3: "3"
+
+FOV (changes in 10 degree increments):
+Increase FOV: up arrow 
+Decrease FOV: down arrow
